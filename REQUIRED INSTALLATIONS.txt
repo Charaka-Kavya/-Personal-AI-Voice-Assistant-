@@ -1,0 +1,18 @@
+REQUIRED INSTALLATIONS: 
+
+1. Python 3.x –> Base programming language
+
+2. Libraries (Install via pip):
+
+   > pip install pyttsx3
+   > pip install SpeechRecognition
+   > pip install openai
+   > pip install pyaudio
+
+   > Note: If `pyaudio` installation fails, install it with pre-built wheel (especially on Windows): [https://www.lfd.uci.edu/\~gohlke/pythonlibs/#pyaudio] 
+     (https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+
+3. Other Modules:
+
+   > tkinter – Comes pre-installed with Python.
+   > datetime, webbrowser, os, threading, time, winsound – Standard Python libraries.
